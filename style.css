@@ -19,7 +19,7 @@
     width: 71%;
     float: left;
     height: 800px;
-    background-color: darkgray;
+    background-color: mintcream;
 }
 
 #top {
@@ -35,11 +35,16 @@
 #pet_photo  {
     height: 200px;
     width: 200px;
-    
-    
 }
 
 #pet_name {
     text-align: center;
-color: white;
+    color: white;
 }
+
+#dog_walk {
+    height: 400px;
+    width: 300px;
+    display: inline-block;
+}
+
