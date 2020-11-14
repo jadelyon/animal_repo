@@ -31,3 +31,14 @@
     height: 500px;
     background-color: darkseagreen;
 }
+
+#pet_photo  {
+    height: 200px;
+    width: 200px;
+    
+}
+
+#pet_name {
+    text-align: center;
+color: white;
+}
